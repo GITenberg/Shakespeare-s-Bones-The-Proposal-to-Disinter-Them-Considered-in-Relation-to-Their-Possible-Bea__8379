@@ -1,0 +1,28 @@
+_repo: Shakespeare-s-Bones-The-Proposal-to-Disinter-Them-Considered-in-Relation-to-Their-Possible-Bea__8379
+creator:
+  author:
+    agent_name: Ingleby, C. M. (Clement Mansfield)
+    alias: Ingleby, Clement Mansfield
+    birthdate: 1823
+    deathdate: 1886
+    gutenberg_agent_id: '2714'
+    url: http://www.gutenberg.org/2009/agents/2714
+    wikipedia: http://en.wikipedia.org/wiki/Clement_Mansfield_Ingleby
+description: ''
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8379'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Exhumation -- England'
+- !lcsh 'Schiller, Friedrich, 1759-1805 -- Tomb'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Tomb'
+title: "Shakespeare's Bones\r\nThe Proposal to Disinter Them, Considered in Relation\
+  \ to Their Possible Bearing on His Portraiture: Illustrated by Instances of Visits\
+  \ of the Living to the Dead"
+url: http://www.gutenberg.org/ebooks/8379
