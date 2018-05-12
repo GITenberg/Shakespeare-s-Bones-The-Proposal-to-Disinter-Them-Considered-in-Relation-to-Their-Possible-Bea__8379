@@ -1,4 +1,8 @@
 _repo: Shakespeare-s-Bones-The-Proposal-to-Disinter-Them-Considered-in-Relation-to-Their-Possible-Bea__8379
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 8379-h/images/coverb.jpg
 creator:
   author:
     agent_name: Ingleby, C. M. (Clement Mansfield)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2714
     wikipedia: http://en.wikipedia.org/wiki/Clement_Mansfield_Ingleby
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8379#Shakespeare-s-Bones-The-Proposal-to-Disinter-Them-Considered-in-Relation-to-Their-Possible-Bea_
 gutenberg_issued: '2005-06-01'
 gutenberg_type: Text
 identifiers:
